@@ -62,4 +62,4 @@ Data has been conventionally represented as a simple class containing as attribu
 
 ## Conclusions
 
-This is just a simulation aiming to demonstrate how a small sensor network could work in a context like that we have just introduced. Obviously, the real technologies applied for this purpose are more sophisticated and show a major number of informations and details about geological phenomenons, however my first intention is not to deepen into the specific, but to show the general behaviour of the system that stay behind the collection and the sending of data, aiming to apprehend from it for future innovative applications.
+This is just a simulation aiming to demonstrate how a small sensor network could work in a context like the one we have just introduced. Obviously, the real technologies applied for this purpose are more sophisticated and show a major number of informations and details about geological phenomenons. However my intention is not to deepen into the specific, but to show the general behaviour of the system that stays behind the collection and the sending of data, aiming to apprehend from it for future innovative applications.
